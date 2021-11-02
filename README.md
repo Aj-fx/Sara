@@ -24,7 +24,7 @@ Project created by <a href="https://github.com/ajayancr">Sara</a> to make it pub
 
 ## Click Youtube logo to Watch full video and findout password in this video 👇
 
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/fd0KPblop-k)
+ [![ANY DOUBT REFER IT](instagram.png)](https://youtu.be/fd0KPblop-k)
 
 
   ### Simple Method
