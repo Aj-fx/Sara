@@ -22,9 +22,9 @@ Project created by <a href="https://github.com/ajayancr">Sara</a> to make it pub
 <div align="center"> 
 
 
-## Click Youtube logo to Watch full video and findout password in this video 👇
+## Click instagram logo to follow and support this page 👇
 
- [![ANY DOUBT REFER IT](instagram.png)](https://youtu.be/fd0KPblop-k)
+ [![ANY DOUBT REFER IT](instagram.png)](https://instagram.com/_aj_cutzz?utm_medium=copy_link)
 
 
   ### Simple Method
