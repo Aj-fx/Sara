@@ -22,7 +22,7 @@ Asena.addCommand({pattern: 'ajayan', fromMe: false, desc: Lang.WP}, (async (mess
 *𝗢𝘄𝗻𝗲𝗿 𝗻𝘂𝗺𝗯𝗲𝗿 wa.me/918281440156?text=Hi*
 
 
-*𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 𝗟𝗶𝗻𝗸𝗲   https://instagram.com/_ajayan_007?utm_medium=copy_link*
+*𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 𝗟𝗶𝗻𝗸   https://instagram.com/_ajayan_007?utm_medium=copy_link*
 
 `}) 
 
