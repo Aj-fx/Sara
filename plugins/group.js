@@ -22,7 +22,7 @@ Asena.addCommand({pattern: 'group', fromMe: false, desc: Lang.WP}, (async (messa
 *𝗢𝘄𝗻𝗲𝗿 𝗻𝘂𝗺𝗯𝗲𝗿 wa.me/918281440156?text=Hi*
 
 
-*𝗚𝗿𝗼𝘂𝗽 𝗟𝗶𝗻𝗸𝗲   https://chat.whatsapp.com/D3AtxKioDPdJkoBqVHtDRT*
+*𝗚𝗿𝗼𝘂𝗽 𝗟𝗶𝗻𝗸   https://chat.whatsapp.com/D3AtxKioDPdJkoBqVHtDRT*
 
 `}) 
 
