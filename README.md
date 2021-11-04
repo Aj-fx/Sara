@@ -1,5 +1,7 @@
 <div align="center">
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Sara+WA+Bot+repo;Created+by+Ajayan;This+is+a+Bgm+sticker+bot;With+more+features)](https://git.io/typing-svg)
+
  </a>
 </p>
 <div align="center">
