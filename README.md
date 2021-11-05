@@ -6,7 +6,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=photo/amalser.png>
+<img src=Aj.webp>
 </p>
   <p align="center">
 <a href="https://github.com/ajayancr"><img title="Author" src="https://img.shields.io/badge/Author-✯ᴀᴊᴀʏᴀɴ✯-ajayancr/Sara?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -97,6 +97,13 @@ If you need help
 you can contact 👇🏻👇🏻 
 ```
 **[![Amalser](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/918281440156?text=Can%20you%20help%20bro)**
+
+
+
+## 👇✯𝗕𝗢𝗧 𝗖𝗥𝗘𝗔𝗧𝗢𝗥✯👇
+  <div align="center">
+
+<img src=photo/owner.png>
 
 ## Developers
   <div align="center">
