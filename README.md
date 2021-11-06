@@ -6,7 +6,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=Aj.webp>
+<img src=photo/amalser.png>
 </p>
   <p align="center">
 <a href="https://github.com/ajayancr"><img title="Author" src="https://img.shields.io/badge/Author-✯ᴀᴊᴀʏᴀɴ✯-ajayancr/Sara?color=blue&style=for-the-badge&logo=whatsapp"></a>
